@@ -1,12 +1,10 @@
 Package: datacleanr
-Title: What the Package Does (One Line, Title Case)
+Title: Data Cleaning and Transformation Utilities
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Leandro", "Malis", , "L.Malis@campus.lmu.de", role = c("aut","cre"))
+Description: A set of utilities to clean and transform data for analysis, including handling missing values, normalizing data, and transforming data types. This package aims to streamline common data preparation tasks, making them easy to perform and replicate.
+License: use_mit_license()
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
